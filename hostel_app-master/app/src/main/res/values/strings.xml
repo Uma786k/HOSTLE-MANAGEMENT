@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Final1</string>
+
+    <string-array name="branch">
+        <item>CSE</item>
+        <item>ENTC</item>
+        <item>MECH</item>
+        <item>ELE</item>
+        <item>CIVIL</item>
+        <item>AI/DM</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+    </string-array>
+</resources>
